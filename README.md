@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **a huge project I've thought up**
 
-- 💬 Ask me about **React, Laravel, Node.js, Angular, Database management, Styling**
+- 💬 Ask me about **React, Next.js, Redux-TRK/RTK-Query, Laravel, Node.js, MERN, MEAN, Angular, Database management, Styling**
 
 - 📫 How to reach me **iykeslim01@gmail.com +2348030608066**
 
