@@ -1,19 +1,21 @@
 [![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Michael Ikechukwu</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">I always have some free time on my hands and I will be ready to help you debug/fix your code if you run into troubles with technologies I will list as my stack down below</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iykeslim&label=Profile%20views&color=0e75b6&style=flat" alt="iykeslim" /> </p>
 
-- 🔭 I’m currently working on **a MERN E-comm project**
+- 🔭 I’m currently working on **a MERN AI project and I am with an organization that provides finantial solutions as a full stack developer**
 
-- 🌱 I’m currently learning **AWS, React Native, Vue**
+- 🌱 I’m currently learning **AWS, I finished a course on React Native and now working as a mobile developer using it**
 
-- 👯 I’m looking to collaborate on **a huge project I've thought up**
+- 👯 I’m looking to collaborate on **a huge project I've thought up - call me up and we'll discuss the plan**
 
-- 💬 Ask me about **React, Next.js, Redux-TRK/RTK-Query, Laravel, Node.js, MERN, MEAN, Angular, Database management, Styling**
+- 💬 Ask me about **React, Next.js, React Native, Redux-TRK/RTK-Query, Laravel, Node.js, MERN, MEAN, Angular, Database management, Styling**
 
 - 📫 How to reach me **iykeslim01@gmail.com +2348030608066**
+- I have basic knowledge of DevOps as should every software engineer**
 
 - ⚡ Fun fact **I am really sociable but not on the outlook and definitely not from the start**
 
