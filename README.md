@@ -6,7 +6,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iykeslim&label=Profile%20views&color=0e75b6&style=flat" alt="iykeslim" /> </p>
 
-- 🔭 Most importantly before any other thing: I AM OPEN TO NEW ROLES AT THE MOMENT ANYTHING EXCTING, INTERESTING AND CHALLENGING**
+- 🔭 Most importantly - before any other thing: I AM OPEN TO NEW ROLES AT THE MOMENT. ANYTHING EXCTING; INTERESTING; AND/OR CHALLENGING**
 - 🔭 I’m currently working on **a MERN AI project and I am with an organization that provides finantial solutions as a full stack developer**
 
 - 🌱 I’m currently learning **AWS, I finished a course on React Native and now working as a mobile developer using it**
