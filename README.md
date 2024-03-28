@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Next.js, React Native, Redux-TRK/RTK-Query, Laravel, Node.js, MERN, MEAN, Angular, Database management, Styling**
 
-- 📫 How to reach me **iykeslim01@gmail.com +2348030608066**
+- 📫 How to reach me **iykeslim01@gmail.com (+234) 8030608066**
 - I have basic knowledge of DevOps as should every software engineer**
 
 - ⚡ Fun fact **I am really sociable but not on the outlook and definitely not from the start**
