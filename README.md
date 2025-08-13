@@ -10,9 +10,9 @@
 ### About Me
 
 - 🔭 I'm currently working on a **MERN AI project** and providing financial solutions as a **full-stack developer**.
-- 🌱 I'm currently expanding my knowledge of **AWS** and developing mobile applications with **React Native** and **Flutter**.
+- 🌱 I'm currently expanding my knowledge of **AWS** and developing mobile applications with **Flutter**.
 - 👯 I'm looking to collaborate on huge, challenging projects. Let's build something great together!
-- 💬 Ask me about **React, Next.js, React Native, Node.js, and DevOps basics**.
+- 💬 Ask me about **React, Next.js, Flutter, Node.js, and DevOps basics**.
 - 📫 You can reach me at **iykeslim01@gmail.com**.
 - ⚡ Fun fact: I'm a sociable person, though it might not seem like it at first!
 
